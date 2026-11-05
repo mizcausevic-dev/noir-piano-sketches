@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+z6601,Noir Piano Sketches Opening,pack-local equal-tempered pitch collection,A#,72,4/4,480,32,61440,midi/z6601-noir-piano-sketches-opening/z6601-noir-piano-sketches-opening-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z6602,Noir Piano Sketches Variation,pack-local equal-tempered pitch collection,C#,72,4/4,480,32,61440,midi/z6602-noir-piano-sketches-variation/z6602-noir-piano-sketches-variation-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z6603,Noir Piano Sketches Contrast,pack-local equal-tempered pitch collection,E,72,4/4,480,32,61440,midi/z6603-noir-piano-sketches-contrast/z6603-noir-piano-sketches-contrast-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+z6604,Noir Piano Sketches Return,pack-local equal-tempered pitch collection,B,72,4/4,480,32,61440,midi/z6604-noir-piano-sketches-return/z6604-noir-piano-sketches-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

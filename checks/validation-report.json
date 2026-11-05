@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:25.219787+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z6601-noir-piano-sketches-opening/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "573c5bbe759103578a87de7cb2e58af7e86e749bf22c5a65703f170f8f6a2621",
+      "errors": []
+    },
+    {
+      "path": "midi/z6601-noir-piano-sketches-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "3697caa65a252cce523ad0ef11ba122f0a6b21532ba40b9230b0dbd9e60edc83",
+      "errors": []
+    },
+    {
+      "path": "midi/z6601-noir-piano-sketches-opening/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6601-noir-piano-sketches-opening/principal_motif.mid",
+      "bytes": 491,
+      "sha256": "1d99a61488125c441901e9cdcb58d30329e1f8a3f26b0bd23ce57068cd80bb1c",
+      "errors": []
+    },
+    {
+      "path": "midi/z6601-noir-piano-sketches-opening/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "743e8f6c774772f1bc7ad7a4703fefd15024685813c742a6bf0b06fed7e2a69e",
+      "errors": []
+    },
+    {
+      "path": "midi/z6601-noir-piano-sketches-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c6d0dabfddc2fb1fb6df260dc150176321d20715160aa252c17b9097290f73f5",
+      "errors": []
+    },
+    {
+      "path": "midi/z6601-noir-piano-sketches-opening/z6601-noir-piano-sketches-opening-combined.mid",
+      "bytes": 3088,
+      "sha256": "91f56d4bc52966ae4019d62852fde1d06b1776da9e7a9b71cf2e85af8715577d",
+      "errors": []
+    },
+    {
+      "path": "midi/z6602-noir-piano-sketches-variation/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "007982ce371e3cc991752d6d9a43deef55f04b2c6d9fba32f308a51491dfe117",
+      "errors": []
+    },
+    {
+      "path": "midi/z6602-noir-piano-sketches-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "79fdf8f98a58098b28e833ad8e3fabff9357d83b383f8c011acb706ab3db9a59",
+      "errors": []
+    },
+    {
+      "path": "midi/z6602-noir-piano-sketches-variation/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6602-noir-piano-sketches-variation/principal_motif.mid",
+      "bytes": 490,
+      "sha256": "fb5bb1625c75a4a886b490207387fe2827ab4d42d3af52513165629cf4792f5d",
+      "errors": []
+    },
+    {
+      "path": "midi/z6602-noir-piano-sketches-variation/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "936d19996d40690d10603dc023c19d830185381bd629e95ac37006b308be0769",
+      "errors": []
+    },
+    {
+      "path": "midi/z6602-noir-piano-sketches-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "07e1eda764eae547b8ba6a3c606494d4150d5d3436fc9acbd70c501fa557fdda",
+      "errors": []
+    },
+    {
+      "path": "midi/z6602-noir-piano-sketches-variation/z6602-noir-piano-sketches-variation-combined.mid",
+      "bytes": 3087,
+      "sha256": "ccbc553650aec2e0e33c62ce6a0b328509da4456f195f9e4173859edebbf0090",
+      "errors": []
+    },
+    {
+      "path": "midi/z6603-noir-piano-sketches-contrast/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "eb8080d203dd56b792c25119871a00c97d7d5ada54c855edb8e3d6e48502b281",
+      "errors": []
+    },
+    {
+      "path": "midi/z6603-noir-piano-sketches-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "aafa1e917f60de88e559a2c57a22d288c1d56b65310f3eaad33e296046148649",
+      "errors": []
+    },
+    {
+      "path": "midi/z6603-noir-piano-sketches-contrast/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6603-noir-piano-sketches-contrast/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "50e46172238747883f16cce892b00aaf36a9f875ba8393014a705d5da1c10ae2",
+      "errors": []
+    },
+    {
+      "path": "midi/z6603-noir-piano-sketches-contrast/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "e85d86631d1b6733d193e5b17ef41ff11dc5ae6127993cbc6938ed6f4439a86b",
+      "errors": []
+    },
+    {
+      "path": "midi/z6603-noir-piano-sketches-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "433b36f92b9aafcc24a74a18bd7752395baaaaa215a5d432c8e5aaaf7a714f8d",
+      "errors": []
+    },
+    {
+      "path": "midi/z6603-noir-piano-sketches-contrast/z6603-noir-piano-sketches-contrast-combined.mid",
+      "bytes": 3067,
+      "sha256": "ff7e8854e492e231ee0ffd316a290d76a5fc4e3d0937dbe4e0e6aad0fc4a1cb8",
+      "errors": []
+    },
+    {
+      "path": "midi/z6604-noir-piano-sketches-return/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "9be8834c51865fa9ecd6440855b028ba6e9c60f72ef0d415316d90f4c5e00956",
+      "errors": []
+    },
+    {
+      "path": "midi/z6604-noir-piano-sketches-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "bcc6398c4719c9bfbd99ba5ea126c1b7d1e6b5c480e70ef59ff1fdbbf980b949",
+      "errors": []
+    },
+    {
+      "path": "midi/z6604-noir-piano-sketches-return/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6604-noir-piano-sketches-return/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "e9086e48d326cc415cda929beea874a1f1c077aca5a08a089f2681ee1f0ce2d6",
+      "errors": []
+    },
+    {
+      "path": "midi/z6604-noir-piano-sketches-return/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "95738f439bdf3b50470bd84ecaa7809c8e92a618988f502b09807974a5485b87",
+      "errors": []
+    },
+    {
+      "path": "midi/z6604-noir-piano-sketches-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ffa608b531925519343d82e7d5ac133eacfe7b907ea5bb8e6a1ced0a9c993d50",
+      "errors": []
+    },
+    {
+      "path": "midi/z6604-noir-piano-sketches-return/z6604-noir-piano-sketches-return-combined.mid",
+      "bytes": 3067,
+      "sha256": "b254b5d564416553ba1a6b5aebc8d86d0b43f1c4bfc0bb31c9c300cec5024c3f",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

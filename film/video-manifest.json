@@ -1,0 +1,26 @@
+{
+  "title": "Noir Piano Sketches",
+  "study": "z6601",
+  "bpm": 72,
+  "source_audio": "preview/noir-piano-sketches-simple-synth-preview.mp3",
+  "source_audio_sha256": "540324f8eab65fc0b5945c05841ced043eb68d7e77d270acd5a0b8d89fd9b871",
+  "source_midi": "midi/z6601-noir-piano-sketches-opening/z6601-noir-piano-sketches-opening-combined.mid",
+  "source_midi_sha256": "91f56d4bc52966ae4019d62852fde1d06b1776da9e7a9b71cf2e85af8715577d",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "3074ee2364bd4dc930bca63c184b7080c40627bdf0a34fc43eb3da9b6b37a67e",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "f5574c13ce2f464287d924966ded28f8d47e81ae3e25ea929cacf19461925808",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "fb6df2b88019020f525630f8f26a961e31eb672256a7eb859162913ca66d87e4",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
