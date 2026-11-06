@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T19:58:25.219787+00:00",
+  "run_time_utc": "2026-11-06T16:27:19.721604+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,8 +26,8 @@
     },
     {
       "path": "midi/z6601-noir-piano-sketches-opening/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "1d99a61488125c441901e9cdcb58d30329e1f8a3f26b0bd23ce57068cd80bb1c",
+      "bytes": 702,
+      "sha256": "e25eb934cf9f0da87fac9ae12a1e800192d0245f97055658692c70f9ff61e782",
       "errors": []
     },
     {
@@ -44,8 +44,8 @@
     },
     {
       "path": "midi/z6601-noir-piano-sketches-opening/z6601-noir-piano-sketches-opening-combined.mid",
-      "bytes": 3088,
-      "sha256": "91f56d4bc52966ae4019d62852fde1d06b1776da9e7a9b71cf2e85af8715577d",
+      "bytes": 3299,
+      "sha256": "beb7ad35e3fd89f02327139832c45f3247f03d56f16b9c2f7642e049f55b43c0",
       "errors": []
     },
     {
@@ -68,8 +68,8 @@
     },
     {
       "path": "midi/z6602-noir-piano-sketches-variation/principal_motif.mid",
-      "bytes": 490,
-      "sha256": "fb5bb1625c75a4a886b490207387fe2827ab4d42d3af52513165629cf4792f5d",
+      "bytes": 699,
+      "sha256": "4e7bca4925f9c339846915cb691327f4e9103fb20bc944d15da8389c63714767",
       "errors": []
     },
     {
@@ -86,8 +86,8 @@
     },
     {
       "path": "midi/z6602-noir-piano-sketches-variation/z6602-noir-piano-sketches-variation-combined.mid",
-      "bytes": 3087,
-      "sha256": "ccbc553650aec2e0e33c62ce6a0b328509da4456f195f9e4173859edebbf0090",
+      "bytes": 3296,
+      "sha256": "7d12917101a555374e6db9129bc9906661dd9e7e9f323e96076eed2cbe98d666",
       "errors": []
     },
     {
@@ -110,8 +110,8 @@
     },
     {
       "path": "midi/z6603-noir-piano-sketches-contrast/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "50e46172238747883f16cce892b00aaf36a9f875ba8393014a705d5da1c10ae2",
+      "bytes": 682,
+      "sha256": "d4e079bc21b1b10215b2cee4cbc25f4855703608a9e6479c101c029729446dd4",
       "errors": []
     },
     {
@@ -128,8 +128,8 @@
     },
     {
       "path": "midi/z6603-noir-piano-sketches-contrast/z6603-noir-piano-sketches-contrast-combined.mid",
-      "bytes": 3067,
-      "sha256": "ff7e8854e492e231ee0ffd316a290d76a5fc4e3d0937dbe4e0e6aad0fc4a1cb8",
+      "bytes": 3279,
+      "sha256": "d49927941a1e39e9f5b2517bba940392a20c89c8de6da162e38cf7a16a2fbc5a",
       "errors": []
     },
     {
@@ -152,8 +152,8 @@
     },
     {
       "path": "midi/z6604-noir-piano-sketches-return/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "e9086e48d326cc415cda929beea874a1f1c077aca5a08a089f2681ee1f0ce2d6",
+      "bytes": 681,
+      "sha256": "2639c0f4d9fb4b8675b59741955cee5d8bea1f39d21c8726f187e37b1a74db0e",
       "errors": []
     },
     {
@@ -170,8 +170,8 @@
     },
     {
       "path": "midi/z6604-noir-piano-sketches-return/z6604-noir-piano-sketches-return-combined.mid",
-      "bytes": 3067,
-      "sha256": "b254b5d564416553ba1a6b5aebc8d86d0b43f1c4bfc0bb31c9c300cec5024c3f",
+      "bytes": 3278,
+      "sha256": "283ce99a7edf7c11c52978caf1ad3afddcf8659b93ef7ef5bf07fd965caddfce",
       "errors": []
     }
   ],

@@ -54,7 +54,7 @@
     {
       "path": "catalog/clip-index.csv",
       "bytes": 1820,
-      "sha256": "e64fac79cbedc11646b4c19cd4e9f2fb24c9ddea0edef88a4aea440ee5dc3e2e"
+      "sha256": "29af6182c865114f610891dc0320f9b1900dfa75d69740db0131acc837d12664"
     },
     {
       "path": "catalog/drum-map.csv",
@@ -68,8 +68,8 @@
     },
     {
       "path": "catalog/note-events.csv",
-      "bytes": 48804,
-      "sha256": "3074ee2364bd4dc930bca63c184b7080c40627bdf0a34fc43eb3da9b6b37a67e"
+      "bytes": 53217,
+      "sha256": "3114536790a5abae63cee9329f829e806a03e6056ed3b77581cdfa463ee3e49e"
     },
     {
       "path": "catalog/patch-recipes.json",
@@ -94,7 +94,7 @@
     {
       "path": "checks/build-metadata.json",
       "bytes": 377,
-      "sha256": "9469c884dc89959974624fb4d92e14fef9460c4be04160c4e910b2a801c86421"
+      "sha256": "f9e08f5d43c4136bb2014e27dbc91e3b0d5a3fdc7acce990bae7e178cb3d4fdf"
     },
     {
       "path": "checks/clip-validation.json",
@@ -108,88 +108,88 @@
     },
     {
       "path": "checks/media-validation.json",
-      "bytes": 462,
-      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+      "bytes": 518,
+      "sha256": "7b0fca7724d78c14e75da3f2815d920bfa6bb7742c105cbc4b7f1082e4de184e"
     },
     {
       "path": "clips/z6601-melody-01.mid",
-      "bytes": 121,
-      "sha256": "f737b96ce43e69c3c6160502ecb764831f9b41c4c3c0b4a4b22b4834d019d129"
+      "bytes": 146,
+      "sha256": "c0709f69e808f3d49ddea6c948819391446f7a82f4b923856a8ab7274430e5b0"
     },
     {
       "path": "clips/z6601-melody-02.mid",
-      "bytes": 121,
-      "sha256": "0ceab15a6dc9ad68b45c1a6c8a1f3c4e54c07bc40abe06db4ec6df9bf9131b98"
+      "bytes": 146,
+      "sha256": "3ae6fd001eb90ea3ba3b89557c1e498ece2ed777f46b3fbfa0a82c3a3ca2904a"
     },
     {
       "path": "clips/z6601-melody-03.mid",
-      "bytes": 91,
-      "sha256": "1b36798aeee57c6e035e216cd55110bb4004e3c6988a6ffdc4589d4550ab21cb"
+      "bytes": 108,
+      "sha256": "01d128bd99ff2d935702aa19ae4bab0d819154db9ffa9e479c33e5ec60265996"
     },
     {
       "path": "clips/z6601-melody-04.mid",
-      "bytes": 91,
-      "sha256": "c3fb8e503acda4bab7ca8d313068861926b8ed592f1293035b23ed380f55a232"
+      "bytes": 108,
+      "sha256": "ce34686777190ae12b060068be307dcd595a07ff930806dc92b7d616f11d9dba"
     },
     {
       "path": "clips/z6602-melody-01.mid",
-      "bytes": 120,
-      "sha256": "eb804212a7f74e49bd98da10516d98ff6922e05c475746a6940d0916a4deb5b7"
+      "bytes": 146,
+      "sha256": "ef01e9377e049faf609079c0b8dffa0aeb2f5d71a4ec2a747b5e8b124503be89"
     },
     {
       "path": "clips/z6602-melody-02.mid",
-      "bytes": 120,
-      "sha256": "3208664fb3d14e7319a490f10992655605124d2bf61c7dcbe76381d5d083775e"
+      "bytes": 146,
+      "sha256": "52445fddd31b43d82025d3583c49603eb119e443b4d615d3088df7d91de8ac07"
     },
     {
       "path": "clips/z6602-melody-03.mid",
-      "bytes": 91,
-      "sha256": "7e4d5ed79767c43ba0e13dc49119dad60ffe2b626469b28cf105fd77856bcdc4"
+      "bytes": 110,
+      "sha256": "4a963106b097490411d41890bc8d5b2cc3fe0b8b13e2fc6c9404f67b19f08154"
     },
     {
       "path": "clips/z6602-melody-04.mid",
-      "bytes": 91,
-      "sha256": "b6d73a4917f5ec7282631ce7b4e0f1c5b62be153419f08347e23a7cf96a6eda1"
+      "bytes": 108,
+      "sha256": "ffa18010a76cb78ac7c0268983ef75a2a4c9df78b5412b5715cfbb423c437203"
     },
     {
       "path": "clips/z6603-melody-01.mid",
-      "bytes": 120,
-      "sha256": "d9d3172ae86b58dd979312aa893e068d5af2e82c2d5f74c53dd06cba9db0b223"
+      "bytes": 146,
+      "sha256": "493fb7501589c5cb540eeffb404df7b81f6666672d83daefede2ad8dc9769e28"
     },
     {
       "path": "clips/z6603-melody-02.mid",
-      "bytes": 120,
-      "sha256": "5024f2a726a26d503654429bb59517e3f996104d29325be6eddc9413da3b70fe"
+      "bytes": 148,
+      "sha256": "4e8217716d27d1aa580f167ab6f0c594f8a9e67e984aeb1b3260186d2190ed0a"
     },
     {
       "path": "clips/z6603-melody-03.mid",
-      "bytes": 91,
-      "sha256": "406cb4dcbb6a7616462d6b2be0125556d503bde59bf314327a6556f29b4a050c"
+      "bytes": 99,
+      "sha256": "a71bbfaf3f267249483513ec37fb2bb58ba9a39ad0064611de6f7229c6d45992"
     },
     {
       "path": "clips/z6603-melody-04.mid",
-      "bytes": 91,
-      "sha256": "45a511513b5e9c5ad6f6135bd76b6d2e7fc22428e2615c928612b7b00ea1f9cd"
+      "bytes": 100,
+      "sha256": "278d23ae1a9766fd52a7826545ce5988809ad58ef9598fb54fbbcba93443783d"
     },
     {
       "path": "clips/z6604-melody-01.mid",
-      "bytes": 120,
-      "sha256": "4788379dbf1a9e07889a16891bd02de399d3a175fff4ba33ce0bc42d02548185"
+      "bytes": 146,
+      "sha256": "c0a9c03f679a007f392988d3cc7709c08d491ab1242f103e3773ba963f2de558"
     },
     {
       "path": "clips/z6604-melody-02.mid",
-      "bytes": 120,
-      "sha256": "31bed25f76ebf21d1d9834f11ac581f5e29b31411c1ffb13c26df8687898c87f"
+      "bytes": 147,
+      "sha256": "cdf91b7428e9fcce15848d4ac99e545bb1aed3a339d7c933283fc41f654dcd83"
     },
     {
       "path": "clips/z6604-melody-03.mid",
-      "bytes": 91,
-      "sha256": "2cbf098025e5b0ae3236ea77162b4cbafcbe734e9e658bf9b0589e3eff553561"
+      "bytes": 100,
+      "sha256": "a263d0c8bcb039c57d0ece68d53a2c5cbaa7b9cf531a57d0b645694c65f39dd0"
     },
     {
       "path": "clips/z6604-melody-04.mid",
-      "bytes": 91,
-      "sha256": "36f1ff1d7e5cf3cffaa8f7465fd8e4b2736818b683753e7d856ecda2b9f969d5"
+      "bytes": 99,
+      "sha256": "dd93795f1cae034a2481f14bb52c941a256fbeec3ff1da5e706d336a52c82d23"
     },
     {
       "path": "delivery.md",
@@ -198,13 +198,13 @@
     },
     {
       "path": "downloads/noir-piano-sketches-midi.zip",
-      "bytes": 24153,
-      "sha256": "ba99c5ef6a4329a72876921930070317eafbe54a693d5f2e0454f85d88b74494"
+      "bytes": 26236,
+      "sha256": "c2bc6c3b48b201e1b9e2b9dc7fcdabc3399ebc075fee6efed5f8bfeb592db160"
     },
     {
       "path": "film/motion-note-roll.png",
-      "bytes": 2232,
-      "sha256": "d0245c4ceefc683e894ed2f8a96ec8be01b26572ca26028d05815e7c8397d252"
+      "bytes": 2273,
+      "sha256": "ef02317838e35c7f397929deabc9a4ad58af97ce0b43b6d5b3244316d3ac8107"
     },
     {
       "path": "film/motion-overlay.png",
@@ -218,8 +218,8 @@
     },
     {
       "path": "film/preview.mp4",
-      "bytes": 784071,
-      "sha256": "fb6df2b88019020f525630f8f26a961e31eb672256a7eb859162913ca66d87e4"
+      "bytes": 775932,
+      "sha256": "fe08cff0697bc44e10e36807bf303692b195c7951a0ee8b8a7863c959d42a48b"
     },
     {
       "path": "film/preview.vtt",
@@ -228,13 +228,13 @@
     },
     {
       "path": "film/video-manifest.json",
-      "bytes": 1209,
-      "sha256": "4d13c42c1ae03e1882bcd9dd80a1d3ce5248a040773f0b6c19137131b86525e5"
+      "bytes": 1235,
+      "sha256": "d124bfd544b03cae8309c69f81f1e42336fafa133d473a77bee388c19bd98e75"
     },
     {
       "path": "index.html",
-      "bytes": 9898,
-      "sha256": "5cb2f3cc94730eee184f194621567f7dc13b79ad15b97697fb53857f8d9866c5"
+      "bytes": 10117,
+      "sha256": "14d6fc6d7980b4251909f53096fc42f78a297fb7d848fb60c1c0a080fd21c40d"
     },
     {
       "path": "midi/z6601-noir-piano-sketches-opening/chord_pulse.mid",
@@ -253,8 +253,8 @@
     },
     {
       "path": "midi/z6601-noir-piano-sketches-opening/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "1d99a61488125c441901e9cdcb58d30329e1f8a3f26b0bd23ce57068cd80bb1c"
+      "bytes": 702,
+      "sha256": "e25eb934cf9f0da87fac9ae12a1e800192d0245f97055658692c70f9ff61e782"
     },
     {
       "path": "midi/z6601-noir-piano-sketches-opening/sub_bass.mid",
@@ -268,8 +268,8 @@
     },
     {
       "path": "midi/z6601-noir-piano-sketches-opening/z6601-noir-piano-sketches-opening-combined.mid",
-      "bytes": 3088,
-      "sha256": "91f56d4bc52966ae4019d62852fde1d06b1776da9e7a9b71cf2e85af8715577d"
+      "bytes": 3299,
+      "sha256": "beb7ad35e3fd89f02327139832c45f3247f03d56f16b9c2f7642e049f55b43c0"
     },
     {
       "path": "midi/z6602-noir-piano-sketches-variation/chord_pulse.mid",
@@ -288,8 +288,8 @@
     },
     {
       "path": "midi/z6602-noir-piano-sketches-variation/principal_motif.mid",
-      "bytes": 490,
-      "sha256": "fb5bb1625c75a4a886b490207387fe2827ab4d42d3af52513165629cf4792f5d"
+      "bytes": 699,
+      "sha256": "4e7bca4925f9c339846915cb691327f4e9103fb20bc944d15da8389c63714767"
     },
     {
       "path": "midi/z6602-noir-piano-sketches-variation/sub_bass.mid",
@@ -303,8 +303,8 @@
     },
     {
       "path": "midi/z6602-noir-piano-sketches-variation/z6602-noir-piano-sketches-variation-combined.mid",
-      "bytes": 3087,
-      "sha256": "ccbc553650aec2e0e33c62ce6a0b328509da4456f195f9e4173859edebbf0090"
+      "bytes": 3296,
+      "sha256": "7d12917101a555374e6db9129bc9906661dd9e7e9f323e96076eed2cbe98d666"
     },
     {
       "path": "midi/z6603-noir-piano-sketches-contrast/chord_pulse.mid",
@@ -323,8 +323,8 @@
     },
     {
       "path": "midi/z6603-noir-piano-sketches-contrast/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "50e46172238747883f16cce892b00aaf36a9f875ba8393014a705d5da1c10ae2"
+      "bytes": 682,
+      "sha256": "d4e079bc21b1b10215b2cee4cbc25f4855703608a9e6479c101c029729446dd4"
     },
     {
       "path": "midi/z6603-noir-piano-sketches-contrast/sub_bass.mid",
@@ -338,8 +338,8 @@
     },
     {
       "path": "midi/z6603-noir-piano-sketches-contrast/z6603-noir-piano-sketches-contrast-combined.mid",
-      "bytes": 3067,
-      "sha256": "ff7e8854e492e231ee0ffd316a290d76a5fc4e3d0937dbe4e0e6aad0fc4a1cb8"
+      "bytes": 3279,
+      "sha256": "d49927941a1e39e9f5b2517bba940392a20c89c8de6da162e38cf7a16a2fbc5a"
     },
     {
       "path": "midi/z6604-noir-piano-sketches-return/chord_pulse.mid",
@@ -358,8 +358,8 @@
     },
     {
       "path": "midi/z6604-noir-piano-sketches-return/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "e9086e48d326cc415cda929beea874a1f1c077aca5a08a089f2681ee1f0ce2d6"
+      "bytes": 681,
+      "sha256": "2639c0f4d9fb4b8675b59741955cee5d8bea1f39d21c8726f187e37b1a74db0e"
     },
     {
       "path": "midi/z6604-noir-piano-sketches-return/sub_bass.mid",
@@ -373,23 +373,28 @@
     },
     {
       "path": "midi/z6604-noir-piano-sketches-return/z6604-noir-piano-sketches-return-combined.mid",
-      "bytes": 3067,
-      "sha256": "b254b5d564416553ba1a6b5aebc8d86d0b43f1c4bfc0bb31c9c300cec5024c3f"
+      "bytes": 3278,
+      "sha256": "283ce99a7edf7c11c52978caf1ad3afddcf8659b93ef7ef5bf07fd965caddfce"
     },
     {
       "path": "preview/noir-piano-sketches-simple-synth-preview.mp3",
       "bytes": 2573627,
-      "sha256": "540324f8eab65fc0b5945c05841ced043eb68d7e77d270acd5a0b8d89fd9b871"
+      "sha256": "b5e3714ba329e470c42e5d828761dfed8db80bee5834ace58529299563061628"
     },
     {
       "path": "preview/preview-manifest.json",
       "bytes": 1168,
-      "sha256": "4412e2c6e086236f54988c1af6ad37d3935f56cfdbb9f0381b32d0536d1ab0df"
+      "sha256": "a6ecaabbf0d5259ae7537b0a196a334837007588deadc6d06e04ce75803d52a3"
     },
     {
       "path": "README.md",
-      "bytes": 3949,
-      "sha256": "c0d48802c6a5139fdf0ef3d9501a9dd90ace21dfb2adfddf84b31c0c7ff90947"
+      "bytes": 4115,
+      "sha256": "219be4b0e125812ae7b5c6dc4ce93799f47abd034e9b575f772ff12add586637"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 459,
+      "sha256": "3eacf0353039d04726de89d5e30850da6403bf4512bef6bf71ca90ebfdb2ee1f"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -423,8 +428,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 147463,
-      "sha256": "c692d41432c4d2932319ff9ad118ba1316a1d8d8bb058790337649670fc3af2d"
+      "bytes": 147903,
+      "sha256": "71b0fabd41c700695dc985d176db4683fe462cf3cae7896c69690092cbb9f49e"
     },
     {
       "path": "tools/polish_release.py",

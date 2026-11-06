@@ -1,11 +1,11 @@
 {
   "generator_version": "release-train-1.0.0",
   "pack": "noir-piano-sketches",
-  "source_builder_sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c",
+  "source_builder_sha256": "71b0fabd41c700695dc985d176db4683fe462cf3cae7896c69690092cbb9f49e",
   "commands": [
     "python tools/build_release.py --pack noir-piano-sketches",
     "python tools/validate_release.py"
   ],
-  "run_time_utc": "2026-11-05T19:42:22.983765+00:00",
+  "run_time_utc": "2026-11-06T16:26:54.128992+00:00",
   "python": "3.14.0"
 }
