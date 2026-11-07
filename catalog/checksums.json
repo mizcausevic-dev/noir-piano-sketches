@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/noir-piano-sketches-midi.zip",
-      "bytes": 26236,
-      "sha256": "c2bc6c3b48b201e1b9e2b9dc7fcdabc3399ebc075fee6efed5f8bfeb592db160"
+      "bytes": 27738,
+      "sha256": "93e6edcf2974b54bdce163db661aed06af8c769abcd2ef878c44f33c91735d7f"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10117,
-      "sha256": "14d6fc6d7980b4251909f53096fc42f78a297fb7d848fb60c1c0a080fd21c40d"
+      "bytes": 10307,
+      "sha256": "6cbbb17858b35dd0525c911e707ceea5c2ee2867fc7cf3ee26a9fd904f97104a"
     },
     {
       "path": "midi/z6601-noir-piano-sketches-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "283ce99a7edf7c11c52978caf1ad3afddcf8659b93ef7ef5bf07fd965caddfce"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/noir-piano-sketches-simple-synth-preview.mp3",
       "bytes": 2573627,
       "sha256": "b5e3714ba329e470c42e5d828761dfed8db80bee5834ace58529299563061628"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4115,
-      "sha256": "219be4b0e125812ae7b5c6dc4ce93799f47abd034e9b575f772ff12add586637"
+      "bytes": 4230,
+      "sha256": "d122605ece6328183175b54db77773f3394a6e2a9722d48e868b0e2b317a8390"
     },
     {
       "path": "REVISION.md",
